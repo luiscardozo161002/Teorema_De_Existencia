@@ -8,7 +8,6 @@
 % Notes			:Requiere aplicacion octave usar en consola preferentemente.
 
 %Actividad_Ejercicio 1 f(x)=e^x,[0,4]
-% Si se graficá su comportamiento es exponencial
 %Limpiar variables.
 clear
 %Dominio de la funcion.
