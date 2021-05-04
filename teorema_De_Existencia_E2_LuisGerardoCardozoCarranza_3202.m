@@ -18,7 +18,7 @@ y=(sin(x));
 %Genera la grafica 
 plot(x,y,'b');
 %Asigna un nombre a la grafica 
-title("Ejericicio 1 f1(x)=e^x");
+title("Ejericicio 1 f(x)=sin(x),[-π,π]");
 %Etiqueta para x
 xlabel("x");
 %Etiqueta para y
