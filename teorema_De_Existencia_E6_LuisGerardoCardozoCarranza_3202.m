@@ -8,7 +8,6 @@
 % Notes			:Requiere aplicacion octave usar en consola preferentemente.
 
 %Actividad_Ejercicio 6 f(x)=1/V(x),[0,3]
-% Si se graficá su comportamiento es exponencial
 %Limpiar variables.
 clear 
 %Dominio de la funcion.
