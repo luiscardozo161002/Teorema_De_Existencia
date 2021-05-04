@@ -8,7 +8,6 @@
 % Notes			:Requiere aplicacion octave usar en consola preferentemente.
 
 %Actividad_Ejercicio 3 f(x)=ln(x),[1,4]
-% Si se graficá su comportamiento es exponencial
 %Limpiar variables.
 clear 
 %Dominio de la funcion.
