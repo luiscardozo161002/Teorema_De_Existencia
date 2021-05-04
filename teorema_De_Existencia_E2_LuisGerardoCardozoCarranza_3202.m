@@ -8,7 +8,6 @@
 % Notes			:Requiere aplicacion octave usar en consola preferentemente.
 
 %Actividad_Ejercicio 2 f(x)=sin(x),[-π,π]
-% Si se graficá su comportamiento es exponencial
 %Limpiar variables.
 clear
 %Dominio de la funcion.
