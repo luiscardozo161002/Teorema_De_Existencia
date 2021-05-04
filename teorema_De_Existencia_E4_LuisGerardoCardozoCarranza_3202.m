@@ -8,7 +8,6 @@
 % Notes			:Requiere aplicacion octave usar en consola preferentemente.
 
 %Actividad_Ejercicio 4 f(x)=1/(1+x^2),[-1,1]
-% Si se graficá su comportamiento es exponencial
 %Limpiar variables.
 clear
 %Dominio de la funcion.
