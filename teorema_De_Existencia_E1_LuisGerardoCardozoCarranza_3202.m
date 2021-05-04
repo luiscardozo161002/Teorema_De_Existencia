@@ -22,3 +22,4 @@ title("Ejericicio 1 f(x)=e^x");
 %Etiqueta para x
 xlabel("x");
 %Etiqueta para y
+ylabel("y");
