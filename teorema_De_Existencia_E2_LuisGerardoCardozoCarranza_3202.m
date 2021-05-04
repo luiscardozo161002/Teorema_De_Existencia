@@ -12,7 +12,7 @@
 %Limpiar variables.
 clear
 %Dominio de la funcion.
-x=-3.1416:0.1:3.1416;;
+x=-3.1416:0.1:3.1416;
 %Valor de la funcion.
 y=(sin(x));
 %Genera la grafica 
