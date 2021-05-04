@@ -18,7 +18,7 @@ y=(1./(x));
 %Genera la grafica 
 plot(x,y,'b');
 %Asigna un nombre a la grafica 
-title("Ejercicio 4 f(x)=1/x,[0,4]");
+title("Ejercicio 5 f(x)=1/x,[0,4]");
 %Etiqueta para x
 xlabel("x");
 %Etiqueta para y
