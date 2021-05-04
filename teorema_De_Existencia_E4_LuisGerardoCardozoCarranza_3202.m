@@ -18,7 +18,7 @@ y=1./(1+x.^2);
 %Genera la grafica 
 plot(x,y,'b');
 %Asigna un nombre a la grafica 
-title("Ejercicio 3 f(x)=1/(1+x^2),[-1,1]");
+title("Ejercicio 4 f(x)=1/(1+x^2),[-1,1]");
 %Etiqueta para x
 xlabel("x");
 %Etiqueta para y
