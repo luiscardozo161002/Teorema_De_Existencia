@@ -7,7 +7,7 @@
 % Usage			:octave> /path/Teorema_de_Existencia_Actividad_1.5_Luis Gerardo Cardozo Carranza_3202
 % Notes			:Requiere aplicacion octave usar en consola preferentemente.
 
-%Actividad_Ejercicio 8 f(x)=1/1-x^2,[-2,4]
+%Actividad_Ejercicio 7 f(x)=1/1-x^2,[-2,4]
 %Limpiar variables.
 clear 
 %Dominio de la funcion.
